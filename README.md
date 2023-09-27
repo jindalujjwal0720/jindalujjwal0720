@@ -9,6 +9,8 @@
 <p align="left"> <a href="https://twitter.com/jindalujjwal07" target="blank"><img src="https://img.shields.io/twitter/follow/jindalujjwal07?logo=twitter&style=flat" alt="jindalujjwal07" /></a> </p> -->
 <a href="https://www.buymeacoffee.com/jindalujjwal0720" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+[![An image of @jindalujjwal0720's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jindalujjwal0720)](https://holopin.io/@jindalujjwal0720)
+
 - 🌱 I’m currently learning **Backend Development, Architectures and Scalable System Design**
 
 - 💬 Ask me about **React, Node, Flutter, C++**
