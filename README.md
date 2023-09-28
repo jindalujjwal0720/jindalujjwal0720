@@ -1,4 +1,4 @@
-![Cover Image](https://lh3.googleusercontent.com/pw/AJFCJaXDx_puee1s8L67-_PrmRMBe8_yRJr9wdYJb4rzvUHcIgDgTZ5nDuruj8GTPtdegFDzlWMJ59m5jkVwAGCYXVD8Ru4vKSoiNpMFWWaDnCxzcOdML3q0WKThyOn9WpyHWsuLidQLRYrKeNblQ1F4TXI56w=w1081-h270-s-no?authuser=0)
+[![An image of @jindalujjwal0720's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jindalujjwal0720)](https://holopin.io/@jindalujjwal0720)
 <h1 align="center">Hi 👋, I'm Ujjwal Jindal</h1>
 <h3 align="center">A passionate Full Stack Developer, Thinker, Problem Solver from India</h3>
 
@@ -8,8 +8,6 @@
 <!--
 <p align="left"> <a href="https://twitter.com/jindalujjwal07" target="blank"><img src="https://img.shields.io/twitter/follow/jindalujjwal07?logo=twitter&style=flat" alt="jindalujjwal07" /></a> </p> -->
 <a href="https://www.buymeacoffee.com/jindalujjwal0720" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-[![An image of @jindalujjwal0720's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jindalujjwal0720)](https://holopin.io/@jindalujjwal0720)
 
 - 🌱 I’m currently learning **Backend Development, Architectures and Scalable System Design**
 
