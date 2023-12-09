@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact **I sleep during day😉**
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="jindalujjwal0720" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jindalujjwal0720?trk=profile-badge">Ujjwal Jindal</a></div>
+              
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jindalujjwal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jindalujjwal07" height="30" width="40" /></a>
