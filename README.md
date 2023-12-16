@@ -1,6 +1,6 @@
 [![An image of @jindalujjwal0720's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jindalujjwal0720)](https://holopin.io/@jindalujjwal0720)
 <h1 align="center">Hi 👋, I'm Ujjwal Jindal</h1>
-<h3 align="center">A passionate Full Stack Developer, Thinker, Problem Solver from India</h3>
+<h3 align="center">A passionate Software Engineer, Thinker, Problem Solver from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jindalujjwal0720&label=Profile%20views&color=0e75b6&style=flat" alt="jindalujjwal0720" /> </p>
 
