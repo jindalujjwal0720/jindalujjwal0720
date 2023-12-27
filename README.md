@@ -5,23 +5,18 @@
     <a href="https://www.linkedin.com/in/jindalujjwal0720/">
       <img src="https://lh3.googleusercontent.com/pw/ABLVV87qJny-j9azE5oIUtjBaFJR8OK-BHaMXnXsPNpC5bclMW8tbQRmIpP8jm4_AOZ5N0k9NmaqP3ik5e2vebrvvxWzBppg6hS6m99TiedWppfhd0vcGMfCmQd6b4iiDEim4zFoRmAIYprFLkLZ2ck-DDlBBQ=w320-h320-s-no-gm?authuser=0" alt="LinkedIn" style="width:15%;" />
     </a>
-  &hairsp;
     <a href="https://github.com/jindalujjwal0720">
       <img src="https://lh3.googleusercontent.com/pw/ABLVV84kS5e1D22mo4KaRx6VYFV23HH_hRYLYSmuHCSeEY6r_efjK4KCKXyTC-voxdMeGvbMMiEmFNsy7PMJB5tldRUXDVRKVXZmv6rV40qVa2spKzmZeRW35ccojcn30xosEQ2EKxpeMA1iP9dgGY2_EgputQ=w320-h320-s-no-gm?authuser=0" alt="Github" style="width:15%;" />
     </a>
-  &hairsp;
     <a href="https://www.reddit.com/user/jindalujjwal0720">
       <img src="https://lh3.googleusercontent.com/pw/ABLVV87y_lgfCdrTnAeZhzsrSLjSaQyU9GpnbByy_2-0DtVH-3UiBOp-MimYIgwkOp7lRvFPnxC7TqeFFF12gtZAWFgM8VEeqCpY-z4AB571DeZIXzDQwM0syERj4XBiK_yDdAWCDL6tBrzFxu02wvoEiaMhug=w320-h320-s-no-gm?authuser=0" alt="Reddit" style="width:15%;" />
     </a>
-  &hairsp;
     <a href="https://twitter.com/jindalujjwal07">
       <img src="https://lh3.googleusercontent.com/pw/ABLVV86Feg0Zww492j95ep7lcpfuL5PlCpWpKcHelEQusOMjuQfBZlbnKPVbDrIyx0O3rFEwvSORixyufNyCm2_6R2H9phucIm6_GiLdmp_GcJWC8k6HFhHsQkXOx2sruRgkaucYNdTZ6QxIanQWCJFcBv106w=w320-h320-s-no-gm?authuser=0" alt="X (Twitter)" style="width:15%;" />
     </a>
-  &hairsp;
     <a href="https://discordapp.com/users/936926592687554610">
       <img src="https://lh3.googleusercontent.com/pw/ABLVV86G7znl0pfgom2Q-HFckv8_DqEve_-8-dPr5_hDwYaBClsYWaKUjNRK7MEwpW2OiE2TBwPbXzxaQzYCtgY4UYRezmlR0O35k_Fs3xNPhlz0mViJ1d-PQR54XoSBiXzSlmScJlFdbx9bJTdgzu0Wrdmc3A=w320-h320-s-no-gm?authuser=0" alt="Discord @jindalujjwal0720" style="width:15%;" />
     </a>
-  &hairsp;
     <a href="https://www.buymeacoffee.com/jindalujjwal0720">
       <img src="https://lh3.googleusercontent.com/pw/ABLVV86HYz_dX6QqhFP_WjtZTkZpeEnSUW6nDwKrSIR9b1fFPAwoiR9jYbq60_gR1spEa65AkdSCrU4X-NbRqDyFKxK5FHjj6b3CIRe4pk_xxHrJBDmqAY2pindNCwNcNLBE30Idj_fC4_Chs38smLOGuukyFQ=w320-h320-s-no-gm?authuser=0" alt="Buy Me A Coffee" style="width:15%;" />
     </a>
