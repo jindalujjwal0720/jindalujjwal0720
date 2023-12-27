@@ -1,3 +1,4 @@
+![Ujjwal Jindal Intro Component](https://lh3.googleusercontent.com/pw/ABLVV86wmHu_buIndt5fuo3zjbiBLR3ZGqSZm6aKLkRH-yGzEPMC_Ph4TzPQ0B3XkdpLBtpImInus0Sd-lb_kbCyg4pFbJaUCxzvZL-CuCzL605OkWAUBl34aFWtLmG_KKR9_kd6_J50WYkLtV-b8q36I-5KbQ=w1920-h720-s-no-gm?authuser=0)
 [![An image of @jindalujjwal0720's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jindalujjwal0720)](https://holopin.io/@jindalujjwal0720)
 <h1 align="center">Hi 👋, I'm Ujjwal Jindal</h1>
 <h3 align="center">A passionate Software Engineer, Thinker, Problem Solver from India</h3>
