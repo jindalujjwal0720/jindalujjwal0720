@@ -5,6 +5,9 @@
     <a href="https://www.linkedin.com/in/jindalujjwal0720/" align="top">
       <img src="https://lh3.googleusercontent.com/pw/ABLVV87qJny-j9azE5oIUtjBaFJR8OK-BHaMXnXsPNpC5bclMW8tbQRmIpP8jm4_AOZ5N0k9NmaqP3ik5e2vebrvvxWzBppg6hS6m99TiedWppfhd0vcGMfCmQd6b4iiDEim4zFoRmAIYprFLkLZ2ck-DDlBBQ=w320-h320-s-no-gm?authuser=0" alt="LinkedIn" style="width: 14%"/>
     </a>
+    <a href="https://www.linkedin.com/in/jindalujjwal0720/" align="top">
+      <img src="https://lh3.googleusercontent.com/pw/ABLVV87qJny-j9azE5oIUtjBaFJR8OK-BHaMXnXsPNpC5bclMW8tbQRmIpP8jm4_AOZ5N0k9NmaqP3ik5e2vebrvvxWzBppg6hS6m99TiedWppfhd0vcGMfCmQd6b4iiDEim4zFoRmAIYprFLkLZ2ck-DDlBBQ=w320-h320-s-no-gm?authuser=0" alt="LinkedIn" style="width: 14%"/>
+    </a>
     <a href="https://github.com/jindalujjwal0720" align="top">
       <img src="https://lh3.googleusercontent.com/pw/ABLVV84kS5e1D22mo4KaRx6VYFV23HH_hRYLYSmuHCSeEY6r_efjK4KCKXyTC-voxdMeGvbMMiEmFNsy7PMJB5tldRUXDVRKVXZmv6rV40qVa2spKzmZeRW35ccojcn30xosEQ2EKxpeMA1iP9dgGY2_EgputQ=w320-h320-s-no-gm?authuser=0" alt="Github" style="width:14%;" />
     </a>
