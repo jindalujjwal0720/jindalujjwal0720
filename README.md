@@ -1,7 +1,7 @@
 ⚠️ Profile under construction!
 ![Ujjwal Jindal Intro Component](https://lh3.googleusercontent.com/pw/ABLVV84UjWfAw3Tcc7bJ29o21OplEbXlgS0_POiydD5rua7CvyzhJfxVOvmp3GmkAXLP-ZVUrI1mJwaqZoTtCfyVQSzfUxFrUc0XGNw4H-uqEDYo-l9SiFCK8xo2x9kM-Teul4yNztuP8q1nni5CWgWh3UH11A=w1920-h720-s-no-gm?authuser=0)
 
-<p align="center">
+<p align="center" style="display: flex;">
     <a href="https://www.linkedin.com/in/jindalujjwal0720/">
       <img src="https://lh3.googleusercontent.com/pw/ABLVV87qJny-j9azE5oIUtjBaFJR8OK-BHaMXnXsPNpC5bclMW8tbQRmIpP8jm4_AOZ5N0k9NmaqP3ik5e2vebrvvxWzBppg6hS6m99TiedWppfhd0vcGMfCmQd6b4iiDEim4zFoRmAIYprFLkLZ2ck-DDlBBQ=w320-h320-s-no-gm?authuser=0" alt="LinkedIn" style="width:15%;" />
     </a>
