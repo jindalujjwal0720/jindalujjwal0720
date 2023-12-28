@@ -41,6 +41,16 @@
     </a>
 </p>
 
+<p align="center">
+    <a href="https://medium.com/@jindalujjwal0720" target="_blank">
+      <img src="src/images/g_articles.png" alt="jindalujjwal0720@medium" style="width: 33%"/>
+    </a>
+    <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
+    <a href="https://jindalujjwal0720.github.io/portfolio/" target="_blank">
+      <img src="src/images/g_projects.png" alt="IIT (ISM) Dhanbad" style="width: 64%; height:50%;"/>
+    </a>
+</p>
+
 [![An image of @jindalujjwal0720's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jindalujjwal0720)](https://holopin.io/@jindalujjwal0720)
 
 <h1 align="center">Hi 👋, I'm Ujjwal Jindal</h1>
