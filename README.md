@@ -1,5 +1,5 @@
 ⚠️ Profile under construction!
-![Ujjwal Jindal Intro Component](src/images/g_intro.gif)
+![Ujjwal Jindal Intro Component](src/images/g_intro.png)
 
 <p align="center">
     <a href="https://medium.com/@jindalujjwal0720">
