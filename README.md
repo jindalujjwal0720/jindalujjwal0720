@@ -1,5 +1,5 @@
 ⚠️ Profile under construction!
-![Ujjwal Jindal Intro Component](https://lh3.googleusercontent.com/pw/ABLVV84UjWfAw3Tcc7bJ29o21OplEbXlgS0_POiydD5rua7CvyzhJfxVOvmp3GmkAXLP-ZVUrI1mJwaqZoTtCfyVQSzfUxFrUc0XGNw4H-uqEDYo-l9SiFCK8xo2x9kM-Teul4yNztuP8q1nni5CWgWh3UH11A=w1920-h720-s-no-gm?authuser=0)
+![Ujjwal Jindal Intro Component](src/images/g_intro.gif)
 
 <p align="center">
     <a href="https://medium.com/@jindalujjwal0720">
