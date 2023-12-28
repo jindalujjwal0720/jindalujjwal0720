@@ -47,7 +47,17 @@
     </a>
     <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
     <a href="https://jindalujjwal0720.github.io/portfolio/" target="_blank">
-      <img src="src/images/g_projects.png" alt="IIT (ISM) Dhanbad" style="width: 64%; height:50%;"/>
+      <img src="src/images/g_projects.png" alt="Projects" style="width: 64%; height:50%;"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/jindalujjwal0720?tab=repositories" target="_blank">
+      <img src="src/images/g_techstack.png" alt="Tech Stack" style="width: 65%"/>
+    </a>
+    <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
+    <a href="mailto:jindalujjwal0720@gmail.com" target="_blank">
+      <img src="src/images/g_contact.png" alt="Contact Ujjwal Jindal" style="width: 31%; height:50%;"/>
     </a>
 </p>
 
