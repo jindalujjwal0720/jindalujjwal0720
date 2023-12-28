@@ -10,7 +10,7 @@
       <img src="src/images/g_linkedin.png" alt="LinkedIn" style="width: 12%"/>
     </a>
     <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
-    <a href="https://github.com/jindalujjwal0720" style="text-decoration: none;">
+    <a href="https://github.com/jindalujjwal0720" style="text-decoration: none !important;">
       <img src="src/images/g_github.png" alt="Github" style="width:12%;" />
     </a>
     <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
