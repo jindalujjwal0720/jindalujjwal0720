@@ -31,6 +31,16 @@
     </a>
 </p>
 
+<p align="center">
+    <a href="https://www.iitism.ac.in/" target="_blank">
+      <img src="src/images/g_college.png" alt="IIT (ISM) Dhanbad" style="width: 67%"/>
+    </a>
+    <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
+    <a href="https://www.iitism.ac.in/" target="_blank">
+      <img src="src/images/g_school.png" alt="IIT (ISM) Dhanbad" style="width: 29%"/>
+    </a>
+</p>
+
 [![An image of @jindalujjwal0720's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jindalujjwal0720)](https://holopin.io/@jindalujjwal0720)
 
 <h1 align="center">Hi 👋, I'm Ujjwal Jindal</h1>
