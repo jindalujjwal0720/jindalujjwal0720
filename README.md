@@ -1,4 +1,4 @@
-![Ujjwal Jindal Intro Component](/src/images/g_intro.png)
+![Ujjwal Jindal Intro Component](src/images/g_intro.png)
 
 <p align="center">
     <a href="https://medium.com/@jindalujjwal0720" target="_blank">
@@ -65,3 +65,5 @@
       <img src="src/images/g_copyright.png" alt="©Ujjwal Jindal, 2023. All Rights Reserved."/>
     </a>
 </p>
+
+Profile won't be visible nicely on mobile devices. Head on to [my portfolio](https://jindalujjwal0720.gothub.io/portfolio)
