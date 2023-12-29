@@ -65,3 +65,5 @@
       <img src="src/images/g_copyright.png" alt="©Ujjwal Jindal, 2023. All Rights Reserved."/>
     </a>
 </p>
+
+Profile won't be visible nicely in dark theme or on mobile devices. Head on to desktop or to [my portfolio](https://jindalujjwal0720.github.io/portfolio).
