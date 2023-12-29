@@ -66,4 +66,4 @@
     </a>
 </p>
 
-Profile won't be visible nicely in dark theme or on mobile devices. Head on to desktop or to [my portfolio](https://jindalujjwal0720.github.io/portfolio).
+Profile may not look nice in dark theme or on mobile devices. Head on to desktop or till then check out [my portfolio](https://jindalujjwal0720.github.io/portfolio). It works everywhere.
