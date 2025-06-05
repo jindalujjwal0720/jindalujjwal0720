@@ -1,9 +1,7 @@
-![Ujjwal Jindal Intro Component](src/images/g_intro.png)
-
 <p align="center">
-<!--     <a href="https://medium.com/@jindalujjwal0720" target="_blank">
+    <a href="https://medium.com/@jindalujjwal0720" target="_blank">
       <img src="src/images/g_medium.png" alt="Medium" style="width: 12%"/>
-    </a> -->
+    </a>
     <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
     <a href="https://www.linkedin.com/in/jindalujjwal0720/" target="_blank">
       <img src="src/images/g_linkedin.png" alt="LinkedIn" style="width: 12%"/>
